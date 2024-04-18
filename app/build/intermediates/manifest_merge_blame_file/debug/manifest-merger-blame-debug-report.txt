@@ -1,0 +1,184 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ahmedapps.roomdatabase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <permission
+11-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.ahmedapps.roomdatabase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.ahmedapps.roomdatabase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:20:5-79
+16-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:20:22-76
+17
+18    <application
+18-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:5:5-27:19
+19        android:allowBackup="true"
+19-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:6:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.12.0] /Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:7:9-65
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:8:9-54
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:9:9-43
+26        android:label="@string/app_name"
+26-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:10:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:11:9-54
+28        android:supportsRtl="true"
+28-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:12:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.RoomDatabase" >
+30-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:13:9-50
+31        <activity
+31-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:15:9-26:20
+32            android:name="com.ahmedapps.roomdatabase.MainActivity"
+32-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:16:13-41
+33            android:exported="true"
+33-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:17:13-36
+34            android:label="@string/app_name"
+34-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:19:13-45
+35            android:theme="@style/Theme.RoomDatabase"
+35-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:20:13-54
+36            android:windowSoftInputMode="adjustResize" >
+36-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:18:13-55
+37            <intent-filter>
+37-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:21:13-25:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:22:17-69
+38-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:22:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:24:17-77
+40-->/Users/007guineapig/Downloads/Room_Databese_tutorail-main-5/app/src/main/AndroidManifest.xml:24:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+46            android:authorities="com.ahmedapps.roomdatabase.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/2f4563c4871b8e712fd75e31436dde09/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/007guineapig/.gradle/caches/transforms-3/409c175646625863e22ad7447a143129/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/007guineapig/.gradle/caches/transforms-3/409c175646625863e22ad7447a143129/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/007guineapig/.gradle/caches/transforms-3/409c175646625863e22ad7447a143129/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+55-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+56                android:value="androidx.startup" />
+56-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+57        </provider>
+58
+59        <activity
+59-->[androidx.compose.ui:ui-tooling-android:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/9a5158b44b87334c78b9f0da395b2b8b/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+60            android:name="androidx.compose.ui.tooling.PreviewActivity"
+60-->[androidx.compose.ui:ui-tooling-android:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/9a5158b44b87334c78b9f0da395b2b8b/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+61            android:exported="true" />
+61-->[androidx.compose.ui:ui-tooling-android:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/9a5158b44b87334c78b9f0da395b2b8b/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+62        <activity
+62-->[androidx.compose.ui:ui-test-manifest:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/6535761994f8d760bdc70ae452995f22/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:23:9-25:39
+63            android:name="androidx.activity.ComponentActivity"
+63-->[androidx.compose.ui:ui-test-manifest:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/6535761994f8d760bdc70ae452995f22/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:24:13-63
+64            android:exported="true" />
+64-->[androidx.compose.ui:ui-test-manifest:1.6.0] /Users/007guineapig/.gradle/caches/transforms-3/6535761994f8d760bdc70ae452995f22/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:25:13-36
+65
+66        <service
+66-->[androidx.room:room-runtime:2.6.0] /Users/007guineapig/.gradle/caches/transforms-3/63ebdaed49251ca9a72d2858ec6860fa/transformed/room-runtime-2.6.0/AndroidManifest.xml:24:9-28:63
+67            android:name="androidx.room.MultiInstanceInvalidationService"
+67-->[androidx.room:room-runtime:2.6.0] /Users/007guineapig/.gradle/caches/transforms-3/63ebdaed49251ca9a72d2858ec6860fa/transformed/room-runtime-2.6.0/AndroidManifest.xml:25:13-74
+68            android:directBootAware="true"
+68-->[androidx.room:room-runtime:2.6.0] /Users/007guineapig/.gradle/caches/transforms-3/63ebdaed49251ca9a72d2858ec6860fa/transformed/room-runtime-2.6.0/AndroidManifest.xml:26:13-43
+69            android:exported="false" />
+69-->[androidx.room:room-runtime:2.6.0] /Users/007guineapig/.gradle/caches/transforms-3/63ebdaed49251ca9a72d2858ec6860fa/transformed/room-runtime-2.6.0/AndroidManifest.xml:27:13-37
+70        <service
+70-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:24:9-28:19
+71            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+71-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:25:13-117
+72            android:exported="false"
+72-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:26:13-37
+73            android:permission="android.permission.BIND_JOB_SERVICE" >
+73-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:27:13-69
+74        </service>
+75
+76        <receiver
+76-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:30:9-32:40
+77            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+77-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:31:13-132
+78            android:exported="false" />
+78-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:32:13-37
+79
+80        <service
+80-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:34:9-36:40
+81            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+81-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:35:13-103
+82            android:exported="false" />
+82-->[com.google.android.datatransport:transport-runtime:3.3.0] /Users/007guineapig/.gradle/caches/transforms-3/d4e49e0b2cf014133f78805b2f7745a6/transformed/transport-runtime-3.3.0/AndroidManifest.xml:36:13-37
+83
+84        <receiver
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+86            android:directBootAware="false"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+87            android:enabled="true"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+88            android:exported="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+89            android:permission="android.permission.DUMP" >
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/007guineapig/.gradle/caches/transforms-3/db780ba78350dbb1d65d1fe8f8671e66/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+101            </intent-filter>
+102        </receiver>
+103    </application>
+104
+105</manifest>

@@ -1,0 +1,32 @@
+[
+{
+
+
+      "nazov": "A",
+      "popis":  "A",
+      "dateAdded": "A",
+      "postup": "A",
+      "ingrediencie": "A",
+      "kategoria" : "A"
+    },
+      {
+
+
+            "nazov": "B",
+            "popis":  "B",
+            "dateAdded": "B",
+            "postup": "B",
+            "ingrediencie": "B",
+          "kategoria" : "B"
+      },
+      {
+
+
+            "nazov": "C",
+            "popis":  "C",
+            "dateAdded": "C",
+            "postup": "C",
+            "ingrediencie": "C",
+            "kategoria" : "C"
+      }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ahmedapps.roomdatabase.app-mergeDebugResources-58:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/007guineapig/.gradle/caches/transforms-3/4757aad46e573af3f112d5ad808a4fd3/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
