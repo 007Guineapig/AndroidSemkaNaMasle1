@@ -1,118 +1,114 @@
 [
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image10.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image10.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/ic_launcher_background.xml"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image3.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image3.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/xml_backup_rules.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/xml/backup_rules.xml"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image8.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image8.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image5.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image5.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image6.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image6.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image1.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image1.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image7.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image7.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image2.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image2.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image10.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image10.jpg"
+    },
+    {
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image4.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image4.jpg"
+    },
+    {
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image9.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image9.jpg"
     },
     {
         "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/xml_backup_rules.xml.flat",
         "source": "com.ahmedapps.roomdatabase.app-main-62:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image4.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image4.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image2.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image2.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image7.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image7.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image9.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image9.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image11.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image11.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image3.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image3.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/raw_sample1.json.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/raw/sample1.json"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image5.jpg.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/drawable/image5.jpg"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image6.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image6.jpg"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/xml/data_extraction_rules.xml"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image8.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image8.jpg"
-    },
-    {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image11.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image11.jpg"
-    },
-    {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/drawable_image1.jpg.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/drawable/image1.jpg"
-    },
-    {
-        "merged": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/007guineapig/.gradle/daemon/8.0/com.ahmedapps.roomdatabase.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.ahmedapps.roomdatabase.app-merged_res-60:/raw_sample1.json.flat",
+        "source": "com.ahmedapps.roomdatabase.app-main-62:/raw/sample1.json"
     }
 ]

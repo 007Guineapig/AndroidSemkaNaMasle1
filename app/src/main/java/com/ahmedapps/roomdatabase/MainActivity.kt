@@ -37,16 +37,6 @@ import org.json.JSONArray
 
 class MainActivity : ComponentActivity() {
 
-/*
-    private val database by lazy {
-        Room.databaseBuilder(
-            applicationContext,
-            NotesDatabase::class.java,
-            "receptiks.db"
-        ).build()
-    }
-
- */
 
     private val viewModel by viewModels<ReceptsViewModel> (
         factoryProducer = {
@@ -57,55 +47,6 @@ class MainActivity : ComponentActivity() {
             }
         }
     )
-    /*lateinit var database: NotesDatabase
-    @Provides
-    fun provideNotesDatabase(@ApplicationContext context: Context): NotesDatabase{
-
-        database = Room.databaseBuilder(
-            context,
-            NotesDatabase::class.java,
-            "receptiks.db"
-        )
-            .addCallback(object:RoomDatabase.Callback(){
-                override fun onCreate(db:SupportSQLiteDatabase) {
-                    super.onCreate(db)
-                    GlobalScope.launch {
-                        val noteDao = database.notesDao()
-                        val noteList: JSONArray =
-                            context.resources.openRawResource(R.raw.sample1).bufferedReader().use {
-                                JSONArray(it.readText())
-                            }
-
-                        noteList.takeIf { it.length() > 0 }?.let { list ->
-                            for (index in 0 until list.length()) {
-                                val noteObj = list.getJSONObject(index)
-                                noteDao.insert(
-                                    Receptik(
-                                        id = noteObj.getString("id"),
-                                        nazov = noteObj.getString("nazov"),
-                                        popis = noteObj.getString("popis"),
-                                        dateAdded = noteObj.getString("dateAdded"),
-                                        postup = noteObj.getString("postup"),
-                                        ingrediencie = noteObj.getString("ingrediencie"),
-                                    )
-
-                                )
-
-                            }
-                        }
-                    }
-                }
-
-
-                }).build()
-                return database
-            }
-
-
-    }
-}
-
-     */
 
 
     lateinit var database: ReceptsDatabase
@@ -149,26 +90,6 @@ override fun onCreate(savedInstanceState: Bundle?) {
                         Uvod(navController = navController)
                     }
                 }
-/*
-                NavHost(navController= navController, startDestination = "NotesScreen") {
-                    composable("NotesScreen") {
-                        ReceptsScreen(
-                            state = state,
-                            navController = navController,
-                            onEvent = viewModel::onEvent
-                        )
-                    }
-                    composable("AddNoteScreen") {
-                        AddReceptScreen(
-                            state = state,
-                            navController = navController,
-                            onEvent = viewModel::onEvent
-                        )
-                    }
-
-
-                }
- */
             }
         }
     }
